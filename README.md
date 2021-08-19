@@ -1,8 +1,10 @@
 # PdfMerger
-Merge multiple PDF Files to one File
-* PDF Dateien einzeln oder ganzen Ordern auswählen
-* PDF nach Name sortieren
-* PDF zusammenführen in eine einzelne Datei
-* PDF auf Desktop speichern
+Merge multiple PDF files to one file
+- add one ore muliple files at once to the mergelist
+- remove entrys from the mergelist (last entry will be removed first)
+- merge all files from mergelist to one file
+- merged files are sortet by name
+- merged file will be saved on Desktop
+
 
 https://user-images.githubusercontent.com/10088323/130071296-3ee26f08-1ddb-4d33-addf-84b89415d0b5.mp4
