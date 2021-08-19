@@ -5,4 +5,4 @@
 - merged file will be saved on Desktop
 - test
 
-<div align="center"><iframe align="center" width="200" height="200" src="https://user-images.githubusercontent.com/10088323/130071296-3ee26f08-1ddb-4d33-addf-84b89415d0b5.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center"><iframe align="center" width="50%" height="50%" src="https://user-images.githubusercontent.com/10088323/130071296-3ee26f08-1ddb-4d33-addf-84b89415d0b5.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
