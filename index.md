@@ -1,5 +1,3 @@
-# PdfMerger
-Merge multiple PDF files to one file
 - add one ore muliple files at once to the mergelist
 - remove entrys from the mergelist (last entry will be removed first)
 - merge all files from mergelist to one file
