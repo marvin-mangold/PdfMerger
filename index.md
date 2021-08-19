@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# PdfMerger
+Merge multiple PDF files to one file
+- add one ore muliple files at once to the mergelist
+- remove entrys from the mergelist (last entry will be removed first)
+- merge all files from mergelist to one file
+- merged files are sortet by name
+- merged file will be saved on Desktop
 
-You can use the [editor on GitHub](https://github.com/marvin-mangold/PdfMerger/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marvin-mangold/PdfMerger/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe width="955" height="537" src="https://user-images.githubusercontent.com/10088323/130071296-3ee26f08-1ddb-4d33-addf-84b89415d0b5.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
