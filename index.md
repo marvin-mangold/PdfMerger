@@ -4,4 +4,5 @@
 - merged files are sortet by name
 - merged file will be saved on Desktop
 
-<div align="center"><iframe align="center" width="100%" height="400" src="https://user-images.githubusercontent.com/10088323/130071296-3ee26f08-1ddb-4d33-addf-84b89415d0b5.mp4" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+ <video src="https://user-images.githubusercontent.com/10088323/130071296-3ee26f08-1ddb-4d33-addf-84b89415d0b5.mp4" controls="controls" style="max-width: 730px;"> </video>
